@@ -3,4 +3,4 @@ Git is a free software distributed under The GPL.
 Git has a mutable index called stage.
 Git tracks changed of file.
 Git stupid boss still prefer SVN.
-Create a new branch.
+Create a new branch is quick and simple.
