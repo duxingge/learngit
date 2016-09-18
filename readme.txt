@@ -5,3 +5,4 @@ Git tracks changed of file.
 Git stupid boss still prefer SVN.
 Create a new branch is quick and simple.
 use --no-ff to merge.
+git dev.
