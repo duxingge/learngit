@@ -6,7 +6,4 @@ Git stupid boss still prefer SVN.
 Create a new branch is quick and simple.
 use --no-ff to merge.
 try of stash
-<<<<<<< HEAD
-=======
 i am try to get stash.
->>>>>>> dev
