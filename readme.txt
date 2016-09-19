@@ -7,3 +7,4 @@ Create a new branch is quick and simple.
 use --no-ff to merge.
 try of stash
 i am try to get stash.
+recode:player2 create a new file.
